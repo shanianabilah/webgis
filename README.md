@@ -1,7 +1,7 @@
 # webgis
 Aplikasi webgis sederhana yang dapat menampilkan data spasial (data yang memiliki informasi keruangan) berupa titik, garis dan polygon
 
-##Database
+## Database
 Ubah file.env sesuai dengan database local
 
 Create database
