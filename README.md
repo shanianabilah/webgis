@@ -49,7 +49,7 @@ insert into line (name,geom,description) values ('Algeria', 'SRID=4326;LINESTRIN
 insert into polygon (name,geom,description) values ('Mali', 'SRID=4326;POLYGON((-4.04296875 20.138470312451155,-4.04296875 15.961329081596647,-0.87890625 15.961329081596647,-0.87890625 18.979025953255267,-4.04296875 20.138470312451155))', 'Polygon in Mali');
 ```
 
-## Installation
+## Run Application
 
 Run backend
 
